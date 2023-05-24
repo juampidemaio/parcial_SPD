@@ -10,8 +10,8 @@
 es un ascensor, el cual sube, baja o frena, dependiendo el uso que le quiera dar a los botones(pulsadores)
 ## Diagrama Esquematico
 ![Diagrama](diagrama_Esquematico.png)
-los componentes utilizados en este diagrama son luces led, una roja, utilizada cuando el ascensor este quieto y la otra verde, cuando el ascensor este en movimiento, con resistencias de 220 omh.
-luego tenemos el display 7 segmentos, conectado con resistencias de 220 omh, el cual nos permite ver que en piso del ascensor nos encontramos, por lo ultimo tenemos a los pulsadores(INPUT_PULLUP) que nos permiten decidir que hacer con el ascensor, si deseamos subir, bajar o frenar.
+los componentes utilizados en este diagrama son luces led, una roja, utilizada cuando el ascensor este quieto y la otra verde, cuando el ascensor este en movimiento, con resistencias de 220 ohm.
+luego tenemos el display 7 segmentos, conectado con resistencias de 220 ohm, el cual nos permite ver que en piso del ascensor nos encontramos, por lo ultimo tenemos a los pulsadores(INPUT_PULLUP) que nos permiten decidir que hacer con el ascensor, si deseamos subir, bajar o frenar.
 
 ## Función principal
 Esta funcion se encarga principalmente de subir, bajar o frenar el ascensor
